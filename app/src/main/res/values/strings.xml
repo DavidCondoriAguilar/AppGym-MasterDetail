@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_splashctivity">Splashctivity</string>
+    <string name="title_activity_carousel">CarouselActivity</string>
+
+    <!-- Textos del carrusel -->
+    <string name="carousel_text_1">Bienvenido, ¡tu primer paso hacia una vida saludable!</string>
+    <string name="carousel_text_2">Descubre nuestras ofertas especiales en membresías.</string>
+    <string name="carousel_text_3">Nuestros entrenadores están aquí para guiarte.</string>
+
+    <!-- Textos de entrenadores -->
+    <string name="trainer_subtitle_personal">Entrenador Personal</string>
+    <string name="trainer_description_personal">Nuestro entrenador personal certificado te ayudará a alcanzar tus metas fitness con un plan personalizado.</string>
+
+    <string name="trainer_subtitle_nutrition">Especialista en Nutrición</string>
+    <string name="trainer_description_nutrition">Recibe asesoramiento nutricional para complementar tu entrenamiento y mejorar tu salud.</string>
+
+    <string name="trainer_subtitle_yoga">Instructor de Yoga</string>
+    <string name="trainer_description_yoga">Disfruta de clases de yoga para mejorar tu flexibilidad y bienestar mental.</string>
+
+    <string name="title_activity_trainers">TrainersActivity</string>
+    <string name="title_activity_nutricion">NutricionActivity</string>
+    <string name="title_activity_functional">FunctionalActivity</string>
+
+    <!-- Textos para Functional Activity -->
+    <string name="functional_title">Actividades Funcionales</string>
+    <string name="functional_description">Mejora tu fuerza y resistencia con nuestras clases de entrenamiento funcional adaptadas a todos los niveles.</string>
+
+    <!-- Textos para Trainers Activity -->
+    <string name="trainers_overview">Nuestros Entrenadores</string>
+    <string name="trainers_description">Conoce a nuestro equipo de profesionales dedicados a ayudarte a alcanzar tus objetivos de fitness.</string>
+
+    <!-- Textos para Nutrición Activity -->
+    <string name="nutrition_title">Nutrición y Salud</string>
+    <string name="nutrition_description">Explora nuestros programas de nutrición diseñados para complementar tu entrenamiento y mejorar tu bienestar general.</string>
+
+    <!-- Textos adicionales -->
+    <string name="footer_text">© 2024 Gym App. Todos los derechos reservados.</string>
+    <string name="trainer_more_info">Para más información, contacta a nuestro equipo.</string>
+    <string name="title_activity_trainer">TrainerActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_activity_comunidad">ComunidadActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_footer">Footer</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_categorias">CategoriasActivity</string>
+    <string name="title_activity_clases">ClasesActivity</string>
+    <string name="title_activity_usuario">UsuarioActivity</string>
+    <string name="title_activity_user_detalle">UserDetalleActivity</string>
+    <string name="title_activity_pais">PaisActivity</string>
+    <string name="title_activity_insertar_pais">InsertarPaisActivity</string>
+    <string name="title_activity_pais_info">PaisInfo</string>
+</resources>
