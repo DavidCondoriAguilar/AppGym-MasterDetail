@@ -71,6 +71,13 @@ dependencies {
 
     //IMAGENES
 
+    // DataStore Preferences
+    implementation(libs.androidx.datastore.preferences)
+
+    // Google Play Services Cast Framework
+    implementation(libs.play.services.cast.framework)
+
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
