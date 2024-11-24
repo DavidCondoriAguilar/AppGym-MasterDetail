@@ -2,3 +2,5 @@
 ![3](https://github.com/user-attachments/assets/2122f123-be21-4964-893f-e6298a3f4bd5)
 ![2](https://github.com/user-attachments/assets/57cbc9df-8d26-4130-a62b-ca4a966bd99e)
 ![home](https://github.com/user-attachments/assets/e373222d-39f6-4227-80ca-e06756f01d2d)
+![localStore](https://github.com/user-attachments/assets/d3db8891-3f47-4b8f-b179-5e3a6a40e13a)
+![alert](https://github.com/user-attachments/assets/282ae227-c17e-4314-bf87-50447ff6bc2c)
